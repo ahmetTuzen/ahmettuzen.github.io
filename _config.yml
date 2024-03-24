@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/at.jpeg"
   bio              : "M.Sc. Computer Engineer"
   location         : "Ankara, Turkey"
-  email            :
+  email            : tuzenahmet@outlook.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://ahmettuzen.github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
