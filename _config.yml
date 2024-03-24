@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ahmet Tüzen Personal Page"
+title                    : "Ahmet Tüzen Personal Site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ahmet Tüzen"
 description              : 
-url                      : "https://ahmettuzen.github.io/"
+url                      : "https://ahmettuzen.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Ahmet Tüzen"
   avatar           : "/assets/images/at.jpeg"
-  bio              : "Ms.C. Computer Engineer"
+  bio              : "M.Sc. Computer Engineer"
   location         : "Ankara, Turkey"
   email            :
   links:
