@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "About"
-    url: https://ahmettuzen.github.io/about/
+    url: /about/
   - title: "Skills"
-    url: https://ahmettuzen.github.io/skills/
+    url: /skills/
   - title: "Publications"
-    url: https://ahmettuzen.github.io/publications/
+    url: /publications/
   - title: "Projects"
-    url: https://ahmettuzen.github.io/projects/
+    url: /projects/
   - title: "Contact"
     url: /contact/
