@@ -1,7 +1,6 @@
 ---
-title: Skills
 layout: archive
-permalink: /skills/
+permalink: /
 author_profile: true
 ---
 
