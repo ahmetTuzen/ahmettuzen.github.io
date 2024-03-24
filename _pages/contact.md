@@ -1,11 +1,8 @@
 ---
 title: Contact
-permalink: /contact/
 layout: archive
+permalink: /contact/
 author_profile: true
-footer: false
 ---
 
-# Contact Us
-
-You can reach me by [email](mailto:tuzenahmet@outlook.com) or [linkedin](https://www.linkedin.com/in/ahmet-tuzen/). I check them regularly.
+You can contact me via [email](mailto:tuzenahmet@outlook.com) or [LinkedIn](https://www.linkedin.com/in/ahmet-tuzen/). I check both regularly.

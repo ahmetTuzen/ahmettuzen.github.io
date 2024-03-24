@@ -1,8 +1,8 @@
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+---
+title: About Me
+layout: archive
+permalink: /about/
+author_profile: true
+---
+
+In progress...

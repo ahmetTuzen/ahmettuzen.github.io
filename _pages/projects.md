@@ -1,1 +1,8 @@
-projects
+---
+title: Projects
+layout: archive
+permalink: /projects/
+author_profile: true
+---
+
+In progress...
