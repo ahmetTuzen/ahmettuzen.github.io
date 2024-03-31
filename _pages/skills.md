@@ -12,15 +12,11 @@ classes: wide
 
 ---
 
-**Programming Languages**
-- Python</i>, C#, <i class="fab fa-java"> Java</i>
+**Programming Languages:** <i class="fab fa-python"> Python</i>, C#, <i class="fab fa-java"> Java</i>
 
 
-**Libraries and Frameworks**
-- NumPy, PyTorch, TensorFlow, Keras, scikit-learn, Flask
+**Libraries and Frameworks:** NumPy, PyTorch, TensorFlow, Keras, scikit-learn, Flask
 
-**Software and Others** 
-- Git, DVC, SQL, PostgreSQL, MLflow, Docker, Kubernetes, AWS, Microsoft Office, MATLAB, LaTeX
+**Software and Others:** <i class="fab fa-git"> git</i>, DVC, SQL, PostgreSQL, MLflow, <i class="fab fa-docker"> Docker</i>, Kubernetes, <i class="fab fa-aws"> AWS</i>, <i class="fab fa-microsoft"> Microsoft Office</i>, MATLAB, LaTeX
 
-**Computer Science**
-- Machine Learning, Deep Learning, MLOps, Data Versioning, Experiment Tracking, Image Processing, Software Engineering, Computer Networks, Distributed Systems, Object Oriented Design, Algorithms, Probability, Statistics, Big Data, Data structures, Natural Language Processing (NLP), Large Language Model (LLM)
+**Computer Science:** Machine Learning, Deep Learning, MLOps, Data Versioning, Experiment Tracking, Image Processing, Software Engineering, Computer Networks, Distributed Systems, Object Oriented Design, Algorithms, Probability, Statistics, Big Data, Data structures, Natural Language Processing (NLP), Large Language Model (LLM)
