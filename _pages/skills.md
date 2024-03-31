@@ -15,7 +15,7 @@ classes: wide
 **Programming Languages:** <i class="fab fa-python"> Python</i>, <img src="../assets/images/logos/c#.png" style="width: 20px; height: 20px;"> C#, <i class="fab fa-java"> Java</i>
 
 
-**Libraries and Frameworks:** NumPy, PyTorch, TensorFlow, <img src="/assets/images/logos/Keras_logo.svg" style=" style="width: 20px; height: 20px;"> Keras, scikit-learn, Flask
+**Libraries and Frameworks:** NumPy, PyTorch, TensorFlow, <img src="/assets/images/logos/Keras_logo.svg" style="width: 20px; height: 20px;"> </img> Keras, scikit-learn, Flask
 
 
 
