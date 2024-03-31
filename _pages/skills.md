@@ -5,4 +5,4 @@ permalink: /skills/
 author_profile: true
 ---
 
-In progress...
+<i class="fas fa-camera">Deneme</i>
