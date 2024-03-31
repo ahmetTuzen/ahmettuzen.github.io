@@ -13,9 +13,9 @@ classes: wide
 ---
 
 **Programming Languages**
-<br><div style="margin-left: 15px;">
+</br><div style="margin-left: 15px;">
 <i class="fab fa-python"> Python</i>, C#, <i class="fab fa-java"> Java</i></div>
-<br>
+</br>
 
 **Libraries and Frameworks**
 <br><div style="margin-left: 15px;"> NumPy, PyTorch, TensorFlow, Keras, scikit-learn, Flask</div>
