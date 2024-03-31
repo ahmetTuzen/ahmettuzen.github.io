@@ -125,7 +125,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  margin: auto;
+  justify-content: center;
   width: 36px;
   height: 36px;
 
@@ -150,7 +150,6 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  text-align: left;
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
