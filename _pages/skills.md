@@ -21,4 +21,4 @@ classes: wide
 
 **Software and Others:**  Git, DVC, SQL, PostgreSQL, MLflow, Docker , Kubernetes, AWS, Microsoft Office, MATLAB, LaTeX
 
-**Computer Science:** Machine Learning, Deep Learning, MLOps, Data Versioning, Experiment Tracking, Image Processing, Software Engineering, Computer Networks, Distributed Systems, Object Oriented Design, Algorithms, Probability, Statistics, Big Data, Data structures, Natural Language Processing (NLP), Large Language Model (LLM)
+**Computer Science:** Machine Learning, Deep Learning, MLOps, Data Versioning, Experiment Tracking, Image Processing, Software Engineering, Computer Networks, Distributed Systems, Object Oriented Design, Algorithms, Probability, Statistics, Big Data, Data structures, Natural Language Processing (NLP), Large Language Models (LLM)
