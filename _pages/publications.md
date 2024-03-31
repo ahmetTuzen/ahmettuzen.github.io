@@ -1,8 +1,8 @@
 ---
-title: Publications
 layout: archive
 permalink: /publications/
 author_profile: true
+classes: wide
 ---
 
 * ***[Under Review]*** Tüzen, A., & Yaslan, Y. DeGAN: Decomposition-Based Unified Anomaly Detection in Static Networks. Elsevier. Available at SSRN 4666801. 

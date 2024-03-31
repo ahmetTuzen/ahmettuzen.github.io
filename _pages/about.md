@@ -2,6 +2,7 @@
 layout: archive
 permalink: /about/
 author_profile: true
+classes: wide
 ---
 
   *A dedicated M.Sc. computer engineer with seven years of work experience and a strong educational background.*
