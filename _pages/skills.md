@@ -12,10 +12,12 @@ classes: wide
 
 ---
 
-**Programming Languages:** <i class="fab fa-python"> Python</i>, <img src="/assets/images/logos/c#.png" style="width: 20px; height: 20px;"> C#, <i class="fab fa-java"> Java</i>
+**Programming Languages:** <i class="fab fa-python"> Python</i>, <img src="../assets/images/logos/c#.png" style="width: 20px; height: 20px;"> C#, <i class="fab fa-java"> Java</i>
 
 
-**Libraries and Frameworks:** NumPy, PyTorch, TensorFlow, Keras, scikit-learn, Flask
+**Libraries and Frameworks:** NumPy, PyTorch, TensorFlow, <img src="..\assets\images\logos\Keras_logo.svg style=" style="width: 20px; height: 20px;"> Keras, scikit-learn, Flask
+
+
 
 **Software and Others:** <i class="fab fa-git"> Git</i>, DVC, <i class="fas fa-database"></i> SQL, PostgreSQL, MLflow, <i class="fab fa-docker"></i> Docker , Kubernetes, <i class="fab fa-aws"> AWS</i>, <i class="fab fa-microsoft"> Microsoft Office</i>, MATLAB, LaTeX
 
